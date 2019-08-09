@@ -1,5 +1,5 @@
 # Check out the website here
 https://tlb99.github.io
 
-# Theme
-The theme used was created by Mark Otto (@mdo).
+# Template
+The Bootstrap template used in this site was created by Mark Otto (@mdo).
